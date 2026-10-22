@@ -1,4 +1,0 @@
-interface:
-  display_name: "Spec-First Debug"
-  short_description: "Read specs, compare fixes, then implement safely"
-  default_prompt: "Use $debug-spec-first to debug this issue: read spec docs first, propose at least two fix options with file impact, then implement on a new branch after I choose."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "句读"
+  short_description: "为哲学、符号学等难读文本做术语解释、背景核查和阅读支架拆解。"
+  default_prompt: "请使用句读 skill 分析我提供的划选段落，并结合全文上下文解释术语、背景、核心概念和误读风险。"
